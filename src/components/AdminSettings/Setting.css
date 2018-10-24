@@ -1,0 +1,23 @@
+.custom-table {
+    width: 100%;
+    background: #fff;
+   
+}
+.custom-table-here {
+    background: #fff;
+    padding: 1%;
+}
+.custom-btn button {
+    margin: 0 5px;
+}
+.below-custom-form {
+    background: #fff;
+    margin-bottom: 20px;
+}
+.below-custom-form h3 {
+    padding: 2%;
+}
+.custom-content-form {
+    padding: 3%;
+    padding-top: 0;
+}
